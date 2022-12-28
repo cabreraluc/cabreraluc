@@ -8,6 +8,15 @@ Email: cabreralucaspatricio@gmail.com
 <br/>
 Linkedin: https://www.linkedin.com/in/lucas-cabrera-0b596224b/
 
+
+
+
+
+
+
+
+
+
 ### Technologies
 
 Html, Css, JavaScript, React, Redux, Node, Express, Sequelize, PostgreSQL
