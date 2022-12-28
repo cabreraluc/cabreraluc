@@ -33,6 +33,8 @@
 <img src="./poke1.png" alt="imgpoke"/>
 <h4>All Pokemons</h4>
 <img src="./poke2.png" alt="imgpoke"/>
+<h4>Pokemons filtered</h4>
+<img src="./poke6.png" alt="imgpoke"/>
 <h4>Create Pokemon!</h4>
 <img src="./poke3.png" alt="imgpoke"/>
 <h4>Details from pokemon</h4>
