@@ -30,7 +30,7 @@
 <hr/>
 <h2>Projects</h2>
 <h3>The Pokedex</h3>
-<img src="./poke1.png" alt="imgpoke"/>
+<img src="./poke1.png" alt="imgpoke" width="120"/>
 <h4>All Pokemons</h4>
 <img src="./poke2.png" alt="imgpoke"/>
 <h4>Filters</h4>
