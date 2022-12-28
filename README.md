@@ -1,7 +1,8 @@
+<img src="https://www.canva.com/design/DAFUxUX3uwI/jsC5eirsDuR_MI4isizwfQ/view?utm_content=DAFUxUX3uwI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="express" width="40" height="40"/> 
 <h1 align="center">Hi 👋, I'm Lucas Cabrera</h1>
 <h3 align="center">A fullstack developer from Argentina looking f¿oe new experiences 😄</h3>
 
- <img src="https://www.canva.com/design/DAFUxUX3uwI/jsC5eirsDuR_MI4isizwfQ/view?utm_content=DAFUxUX3uwI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="express" width="40" height="40"/> 
+ 
 
 - 🌱 I’m currently learning **React Toolkit**
 
