@@ -30,14 +30,14 @@
 <hr/>
 <h2>Projects</h2>
 <h3>The Pokedex</h3>
-<img src="./poke1.png" alt="imgpoke" width="120"/>
+<img src="./poke1.png" alt="imgpoke" width="360"/>
 <h4>All Pokemons</h4>
-<img src="./poke2.png" alt="imgpoke"/>
+<img src="./poke2.png" alt="imgpoke"  width="360"/>
 <h4>Filters</h4>
-<img src="./poke6.png" alt="imgpoke"/>
+<img src="./poke6.png" alt="imgpoke"  width="360"/>
 <h4>Create Pokemon!</h4>
-<img src="./poke3.png" alt="imgpoke"/>
+<img src="./poke3.png" alt="imgpoke"  width="360"/>
 <h4>Details from pokemon</h4>
-<img src="./poke4.png" alt="imgpoke"/>
+<img src="./poke4.png" alt="imgpoke"  width="360"/>
 <h4>Recycle bin</h4>
-<img src="./poke5.png" alt="imgpoke"/>
+<img src="./poke5.png" alt="imgpoke"  width="360"/>
