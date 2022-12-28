@@ -27,6 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cabreraluc&" alt="cabreraluc" /></p>
 
+<hr/>
 <h2>Projects</h2>
 <h3>The Pokedex</h3>
 <img src="./poke1.png" alt="imgpoke"/>
