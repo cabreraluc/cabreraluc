@@ -1,6 +1,6 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" alt="banner"/> 
 <h1 align="center">Hi 👋, I'm Lucas Cabrera</h1>
-<h3 align="center">A fullstack developer from Argentina looking f¿oe new experiences 😄</h3>
+<h3 align="center">A fullstack developer from Argentina looking for new experiences 😄</h3>
 <h2>I'm a frontend oriented fullstack developer, and I'm eager to be part of a team where I can develop new skills and grow professionally, I really love programming, I love logic, I love styling things, I am very committed to what I do and I am looking for new challenges</h2>
 
  
@@ -19,8 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/><img src="https://pics.freeicons.io/uploads/icons/png/17839680241551942828-512.png" alt="sequelize" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cabreraluc&show_icons=true&locale=en&layout=compact" alt="cabreraluc" /></p>
-<br/>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cabreraluc&show_icons=true&locale=en" alt="cabreraluc" /></p>
 <br/>
