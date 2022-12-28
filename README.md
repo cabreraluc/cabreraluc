@@ -1,6 +1,7 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" alt="banner"/> 
 <h1 align="center">Hi 👋, I'm Lucas Cabrera</h1>
 <h3 align="center">A fullstack developer from Argentina looking f¿oe new experiences 😄</h3>
+<h2>I'm a frontend oriented fullstack developer, and I'm eager to be part of a team where I can develop new skills and grow professionally, I really love programming, I love logic, I love styling things, I am very committed to what I do and I am looking for new challenges</h2>
 
  
 
