@@ -1,5 +1,5 @@
 
-<img src="./Baaner de Lind" alt="banner"/> 
+<img src="./Banner.png" alt="banner"/> 
 
 # Hi there! 👋 I'm Lucas.  
 
